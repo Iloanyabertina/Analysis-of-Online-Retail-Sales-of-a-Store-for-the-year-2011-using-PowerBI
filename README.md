@@ -60,4 +60,5 @@ Power BI was used to clean, transform and model data. Compelling and insightful 
 ### BabyNames in the U.S
 Health facility wanted to know the top five names given to infants born in 2014 in the U.S
 Python programming Language was used to sort and clean data to provide client with information needed.
+[Tabular Data.pdf](https://github.com/Iloanyabertina/Iloanyabertina.github.io/files/12194989/Tabular.Data.pdf)
 
