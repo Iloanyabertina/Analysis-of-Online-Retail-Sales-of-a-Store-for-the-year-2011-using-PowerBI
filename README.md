@@ -4,18 +4,18 @@
 Extremely knowledgeable and attentive to detail Data Analyst, who has significant experience in assembling, analyzing, and interpreting complicated datasets. Capable of gaining significant insights through the application of complex statistical methodologies and data visualization techniques in order to drive decisions that are based on data. Skilled in the design and implementation of data models, as well as the cleaning and preparation of data and the execution of stringent quality assurance procedures to guarantee the accuracy and dependability of data. Having great problem-solving skills and an enthusiasm for finding patterns and trends in large datasets are two of the most important qualifications. Proven ability to convey technical findings in a way that is both clear and succinct to stakeholders that are both technically oriented and not technically oriented.
 
 ## Skills
-●R
-●Python 
-●SQL
-●Spreadsheets
-●Data Visualization 
-●Data Manipulation and modelling
-●Tableau
-●Data Validation 
-●Power BI
-●Problem Solving skills
-●Communication 
-●Presentation 
+●R; 
+●Python;  
+●SQL; 
+●Spreadsheets; 
+●Data Visualization; 
+●Data Manipulation and modelling; 
+●Tableau; 
+●Data Validation;  
+●Power BI; 
+●Problem Solving skills; 
+●Communication;  
+●Presentation;  
 
 ## Work Experience
 ### Junior Data Analyst
