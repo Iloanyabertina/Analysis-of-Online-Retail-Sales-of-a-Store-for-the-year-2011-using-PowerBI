@@ -20,8 +20,8 @@ Extremely knowledgeable and attentive to detail Data Analyst, who has significan
 ## Work Experience
 ### Junior Data Analyst
 ### SellBetterMedia, Muscat 
-●Manipulated data to discover insights to market trends that influenced customer service.
-●I utilized statistical and analytic methods to extract useful information from the provided data. 
+●Manipulated data to discover insights to market trends that influenced customer service. 
+●I utilized statistical and analytic methods to extract useful information from the provided data.  
 ●Interpreted data from analysis with compelling visuals to help stakeholders make informed decisions that improved service delivery and inturn income margin by a 15%.
 
 ### Data Analyst
@@ -31,24 +31,24 @@ Extremely knowledgeable and attentive to detail Data Analyst, who has significan
 
 ## Education
 ### University Of Benin							
-### Qualification: Doctor of Optometry (OD)
+Qualification: Doctor of Optometry (OD)
 Second Class Honours
 
 ## Certifications
 ### Google CertiCertifications (Google Analytics Professional Certificate)
-Foundations: Data, Data, Everywhere
-Ask Questions to make data-driven decisions 
-Prepare Data for exploration 
-Process Data from dirty to clean 
-Share Data through the art of visualization
-Analyze data to answer questions
-Data analysis with R programming
+Foundations: Data, Data, Everywhere; 
+Ask Questions to make data-driven decisions;  
+Prepare Data for exploration; 
+Process Data from dirty to clean; 
+Share Data through the art of visualization; 
+Analyze data to answer questions; 
+Data analysis with R programming; 
 Google Data analytics capstone: Complete a case study.
 
 ### Career Essentials in Data Analysis by Microsoft and LinkedIn (2023)
-Introduction to Career Skills in Data Analytics 
-Learning Data Analytics: 1 Foundations
-Learning Data Analytics Part 2: Extending and Applying Core Knowledge
+Introduction to Career Skills in Data Analytics; 
+Learning Data Analytics: 1 Foundations; 
+Learning Data Analytics Part 2: Extending and Applying Core Knowledge; 
 
 ## Projects 
 ### Sales Production 
