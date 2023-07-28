@@ -67,4 +67,4 @@ Python programming Language was used to sort and clean data to provide client wi
 ### Adhoc Report 
 Adhoc report or one time reports made by other departments in the company when working on the project you are handling and need information that is not on an organizational level. As a data analyst, you are expected to do these even though you may be working on the raw data while completing organizational tasks.
 
-
+![Adhoct 2](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/2b63907a-1572-497c-937f-779e514480d6)
