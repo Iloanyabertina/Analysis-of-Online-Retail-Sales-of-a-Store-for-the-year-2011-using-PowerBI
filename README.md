@@ -52,19 +52,20 @@ Learning Data Analytics Part 2: Extending and Applying Core Knowledge;
 
 ## Projects and Case Studies
 ### Sales Production 
-Company needed to know if they were producing the selling product at the right demand and supply level and which product was selling the most, which product had the most profit.
-Power BI was used to clean, transform and model data. Compelling and insightful visuals was also created to present to stakeholders.
+It was necessary for the company to determine whether or not they were creating the product that was selling at the appropriate level of demand and supply, as well as which product was selling the most and which product generated the most profit.
+The data was cleaned, modeled, and transformed with the assistance of Power BI. In addition, compelling and instructive images were produced for the purpose of presenting them to stakeholders.
 
 ![Report Production](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/8e705b19-56d2-4455-9ffe-13616018fc4c)
 
 
 ### BabyNames in the U.S
-Health facility wanted to know the top five names given to infants born in 2014 in the U.S. 
-Python programming Language was used to sort and clean data to provide client with information needed.
+A health facility was interested in learning the top five names that were given to babies born in the United States in 2014. 
+The data were organized and cleaned up using the Python programming language in order to present the client with the required information.
 
 [Tabular Data.pdf](https://github.com/Iloanyabertina/Iloanyabertina.github.io/files/12194989/Tabular.Data.pdf)
 
 ### Adhoc Report 
-Adhoc report or one time reports made by other departments in the company when working on the project you are handling and need information that is not on an organizational level. As a data analyst, you are expected to do these even though you may be working on the raw data while completing organizational tasks.
+When working on the project you are managing and other departments in the company make requests for adhoc reports or one-time reports because they need information that is not on an organizational level, you will need to deliver this information. despite fact that
+Even the you may be working on the data in its entirety while also undertaking organizational activities, it is expected of you as a data analyst to carry out these responsibilities.
 
 ![Adhoct 2](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/2b63907a-1572-497c-937f-779e514480d6)
