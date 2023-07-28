@@ -50,7 +50,7 @@ Introduction to Career Skills in Data Analytics;
 Learning Data Analytics: 1 Foundations; 
 Learning Data Analytics Part 2: Extending and Applying Core Knowledge; 
 
-## Projects 
+## Projects and Case Studies
 ### Sales Production 
 Company needed to know if they were producing the selling product at the right demand and supply level and which product was selling the most, which product had the most profit.
 Power BI was used to clean, transform and model data. Compelling and insightful visuals was also created to present to stakeholders.
