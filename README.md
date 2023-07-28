@@ -31,7 +31,7 @@ Extremely knowledgeable and attentive to detail Data Analyst, who has significan
 
 ## Education
 ### University Of Benin							
-Qualification: Doctor of Optometry (OD)
+Degree: Doctor of Optometry (OD)
 Second Class Honours
 
 ## Certifications
