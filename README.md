@@ -58,10 +58,13 @@ Power BI was used to clean, transform and model data. Compelling and insightful 
 ![Report Production](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/8e705b19-56d2-4455-9ffe-13616018fc4c)
 
 
-
 ### BabyNames in the U.S
 Health facility wanted to know the top five names given to infants born in 2014 in the U.S. 
 Python programming Language was used to sort and clean data to provide client with information needed.
 
 [Tabular Data.pdf](https://github.com/Iloanyabertina/Iloanyabertina.github.io/files/12194989/Tabular.Data.pdf)
+
+### Adhoc Report 
+Adhoc report or one time reports made by other departments in the company when working on the project you are handling and need information that is not on an organizational level. As a data analyst, you are expected to do these even though you may be working on the raw data while completing organizational tasks.
+
 
