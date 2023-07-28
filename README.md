@@ -54,7 +54,10 @@ Learning Data Analytics Part 2: Extending and Applying Core Knowledge;
 ### Sales Production 
 Company needed to know if they were producing the selling product at the right demand and supply level and which product was selling the most, which product had the most profit.
 Power BI was used to clean, transform and model data. Compelling and insightful visuals was also created to present to stakeholders.
+[AdHocReport.pdf](https://github.com/Iloanyabertina/Iloanyabertina.github.io/files/12194955/AdHocReport.pdf)
+
 
 ### BabyNames in the U.S
 Health facility wanted to know the top five names given to infants born in 2014 in the U.S
 Python programming Language was used to sort and clean data to provide client with information needed.
+
