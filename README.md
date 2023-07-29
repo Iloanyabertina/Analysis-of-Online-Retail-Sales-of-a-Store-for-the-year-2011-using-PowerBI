@@ -73,3 +73,7 @@ When working on the project you are managing and other departments in the compan
 A company needed to know how employees were making sales, what product sales they were making, the customers that bought these products and the total price per employee.
 Tableau is a use data visualization tool that gives a compelling and interative visual of what is being represented and interpreted.
 
+[Sales Total](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/f71c707e-b38a-4f39-badb-818b0d72432b)
+
+For better interactive visuals, click the link: https://public.tableau.com/app/profile/chiamaka.iloanya/viz/SalesTotalbyEmployeeandCustomer/Sheet4?publish=yes
+
