@@ -65,7 +65,11 @@ The data were organized and cleaned up using the Python programming language in 
 [Tabular Data.pdf](https://github.com/Iloanyabertina/Iloanyabertina.github.io/files/12194989/Tabular.Data.pdf)
 
 ### Adhoc Report 
-When working on the project you are managing and other departments in the company make requests for adhoc reports or one-time reports because they need information that is not on an organizational level, you will need to deliver this information. despite fact that
-Even the you may be working on the data in its entirety while also undertaking organizational activities, it is expected of you as a data analyst to carry out these responsibilities.
+When working on the project you are managing and other departments in the company make requests for adhoc reports or one-time reports because they need information that is not on an organizational level, you will need to deliver this information. despite fact you may be working on the data in its entirety while also undertaking organizational activities, it is stil expected of you as a data analyst to carry out these one time responsibilities.
 
 ![Adhoct 2](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/2b63907a-1572-497c-937f-779e514480d6)
+
+### Employee Sales Information
+A company needed to know how employees were making sales, what product sales they were making, the customers that bought these products and the total price per employee.
+Tableau is a use data visualization tool that gives a compelling and interative visual of what is being represented and interpreted.
+
