@@ -1,7 +1,7 @@
 # Analysis of online retail sales of retail store for the year 2011
 
 ## Data Load and Column Profilling based on entire data set
-#### Dataset was load into the Power BI and profiled based on entire dataset, errors, valid data and empty data was assessed and documented.
+#### Dataset was loaded into the Power BI and profiled based on entire dataset, errors, valid data and empty data was assessed and documented.
 ![Column profile](https://github.com/Iloanyabertina/Iloanyabertina.github.io/assets/139617136/1e1fe474-61a4-4ce2-85be-13b6ff3279b1)
 
 ## Data Cleaning and Manipulation
